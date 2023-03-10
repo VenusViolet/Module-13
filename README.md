@@ -1,7 +1,8 @@
 # Module-13
 
 ## Description 
-The real-world full-stack application uses a command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+This application builds the back end for an e-commerce site by working Express.js API and configure into using Sequelize to interact with a MySQL database.
+
 
 ## Table of Contents
 1. Description
@@ -12,10 +13,11 @@ The real-world full-stack application uses a command-line application to manage 
 6. Licence
 
 ## Installation 
-To access the webpage you can fork the repository so that you can do npm start in the command line to begin it.
+To access the webpage you can fork the repository so that you can do npm start in the command line to begin it and then to be tested in insomina. 
 
 ## Usage
-This accessible web application works when the user starts npm on the command line and uses MySQL database to store information in tables.
+This accessible web application works when the user starts npm i and then npm start on the command line. Then it is tested via insomia. 
+
 ## Credits
 Instructor Eli Montoya and TA Kevin Long assisted with this project. 
 
